@@ -1,0 +1,107 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tiyalxx/photography.com" resolutions="1x,2x" timestamp="1555574409855">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4148813675" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="000626120009.jpg" crc="3807776026" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="自己ㄉ大頭.jpg" crc="222922635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="自己ㄉ大頭_2x.jpg" crc="4202479541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626080020.jpg" crc="3965194539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626080020_2x.jpg" crc="305209879" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626130017.jpg" crc="119876848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626130017_2x.jpg" crc="458424939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="000626080012.jpg" crc="93583094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626080012_2x.jpg" crc="367956923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626090021.jpg" crc="4056216712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626090021_2x.jpg" crc="3955958426" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626090011.jpg" crc="205958981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626090011_2x.jpg" crc="4162447644" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626090008.jpg" crc="4003091758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626090008_2x.jpg" crc="3810646927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626090034.jpg" crc="3963186915" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000626090034_2x.jpg" crc="3978003725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018-03-27 094249 1.jpg" crc="9555261" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018-03-27 094249 1_2x.jpg" crc="54565211" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018-03-27 094240 1.jpg" crc="4004629440" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018-03-27 094240 1_2x.jpg" crc="3791462775" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018-03-27 094309 1.jpg" crc="3902076009" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018-03-27 094309 1_2x.jpg" crc="160164014" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018-03-27 094323 1.jpg" crc="4225318648" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018-03-27 094323 1_2x.jpg" crc="4075063582" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018-03-27 094234 1.jpg" crc="442704962" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018-03-27 094234 1_2x.jpg" crc="80608224" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4578.jpg" crc="428453761" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4578_2x.jpg" crc="4094221297" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3863086434" seo="true" mt="1555574317259" redirect="true"/>
+</manifest>
